@@ -1,0 +1,21 @@
+<h1>
+  {{ title }}
+</h1>
+<p>
+  {{ body }}
+</p>
+
+<hr>
+<div>
+	<h2 class="text-error">Enter your Name</h2>
+  <form class="form-inline">
+    <input type="text" [(ngModel)]="message1" placeholder="Name">
+    <button type="submit" class="btn" (click)="updateMessage1(message1)">Update</button>
+  </form>
+  <h2 class="text-error">Enter your Roll number</h2>
+  <form class="form-inline">
+    <input type="text" [(ngModel)]="message" placeholder="Roll Number">
+    <button type="submit" class="btn" (click)="updateMessage(message)">Update</button>
+  </form>
+  
+</div>
