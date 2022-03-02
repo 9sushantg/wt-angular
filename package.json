@@ -27,7 +27,7 @@
     "awesome-typescript-loader": "^0.17.0",
     "core-js": "^2.4.0",
     "jasmine-core": "^2.4.1",
-    "karma": "^0.13.22",
+    "karma": "^6.3.16",
     "karma-coverage": "^1.0.0",
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.0",
