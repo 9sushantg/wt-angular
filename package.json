@@ -24,7 +24,7 @@
     "zone.js": "^0.6.12"
   },
   "devDependencies": {
-    "awesome-typescript-loader": "^0.17.0",
+    "awesome-typescript-loader": "^5.2.1",
     "core-js": "^2.4.0",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
@@ -33,12 +33,12 @@
     "karma-phantomjs-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.26",
-    "karma-webpack": "^1.7.0",
+    "karma-webpack": "^5.0.0",
     "phantomjs-prebuilt": "^2.1.7",
     "raw-loader": "^0.5.1",
-    "source-map-loader": "^0.1.5",
+    "source-map-loader": "^4.0.1",
     "typescript": "^1.8.10",
-    "webpack": "^1.13.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^1.14.1"
   }
 }
